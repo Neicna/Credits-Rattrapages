@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environnement virtuel
+venv/
+
+# PyCharm
+.idea/
+*.iml
+
+# SQLite
+*.sqlite3
+*.db
+
+# Autres
+.env
+.DS_Store
